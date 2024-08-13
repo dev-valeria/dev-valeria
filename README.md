@@ -22,6 +22,6 @@
 ## 📫 Entre em Contato
 
 - **LinkedIn:** [Valeria Melo](https://www.linkedin.com/in/valeriamelotech/)
-- **Email:** [valeria@example.com](mailto:valeriamelo.dev@gmail.com)
+- **Email:** [valeriamelo.dev@gmail.com](mailto:valeriamelo.dev@gmail.com)
 
 Estou sempre aberta a colaborações e novas oportunidades, então não hesite em me contatar!
