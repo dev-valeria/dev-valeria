@@ -1,6 +1,6 @@
 # Valeria Melo · she/her
 
-**Desenvolvedora front-end dedicada a criar experiências web incríveis, com amplo conjunto de habilidades em programação e foco em soluções inovadoras e eficazes.**
+**Desenvolvedora front-end dedicada a criar experiências web, com amplo conjunto de habilidades em programação e foco em soluções inovadoras e eficazes.**
 
 ## 🛠️ Tecnologias & Ferramentas
 
