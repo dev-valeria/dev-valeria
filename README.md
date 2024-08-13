@@ -20,7 +20,7 @@
 </p>
 
 
-## 📫 Entre em Contato
+## 📫 Get in Touch
 
 - **LinkedIn:** [Valeria Melo](https://www.linkedin.com/in/valeriamelotech/)
 - **Email:** [valeriamelo.dev@gmail.com](mailto:valeriamelo.dev@gmail.com)
