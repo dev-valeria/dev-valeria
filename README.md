@@ -1,8 +1,8 @@
 # Valeria Melo · she/her
 
-**Desenvolvedora front-end dedicada a criar experiências web, com amplo conjunto de habilidades em programação e foco em soluções inovadoras e eficazes.**
+**Dedicated front-end developer focused on creating web experiences, with a broad skill set in programming and a commitment to innovative and effective solutions.**
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular" width="40" height="40"/>
@@ -19,9 +19,9 @@
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" height="40"/>
 </p>
 
+
 ## 📫 Entre em Contato
 
 - **LinkedIn:** [Valeria Melo](https://www.linkedin.com/in/valeriamelotech/)
 - **Email:** [valeriamelo.dev@gmail.com](mailto:valeriamelo.dev@gmail.com)
 
-Estou sempre aberta a colaborações e novas oportunidades, então não hesite em me contatar!
