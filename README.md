@@ -18,3 +18,10 @@
   <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" alt="Material UI" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" height="40"/>
 </p>
+
+## 📫 Entre em Contato
+
+- **LinkedIn:** [Valeria Melo](https://www.linkedin.com/in/valeriamelotech/)
+- **Email:** [valeria@example.com](mailto:valeriamelo.dev@gmail.com)
+
+Estou sempre aberta a colaborações e novas oportunidades, então não hesite em me contatar!
